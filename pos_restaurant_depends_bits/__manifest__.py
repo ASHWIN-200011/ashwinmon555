@@ -2,7 +2,7 @@
 {
     'name': 'POS restaurant depend',
     'category': 'Services',
-    'version': '16.0.1.0.0',
+    'version': '16.0.1.1.0',
     'author': 'Terabits Technolab ',
     'website': 'https://www.terabits.xyz/apps/16.0/pos_restaurant_depends_bits',
     'summary': 'This module contains pos restaurant-related customizations depending on delight_pos_theme_bits',
